@@ -1,3 +1,9 @@
+
+
+![pic1](https://github.com/code-its-Ahmad/food-order-system/assets/166840462/3757d6d4-802a-4f03-8cbc-ad429d409887)
+![pic 2](https://github.com/code-its-Ahmad/food-order-system/assets/166840462/4385c122-e9f2-41aa-8cb4-8705fbc014be)
+![pic3](https://github.com/code-its-Ahmad/food-order-system/assets/166840462/353d8515-84d6-4f79-a0f4-6ad25ec3313a)
+
 # Food Order System
 
 This project is a food order system implemented using various data structures for efficient management and retrieval of data. The system allows users to place food orders, view menu items, manage inventory, and process payments.
